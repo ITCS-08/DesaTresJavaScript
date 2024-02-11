@@ -1,2 +1,2 @@
-# DesaTresJavaScript
-Desafío N° 3 - Funciones
+# DesaDosJavaScript
+Desafío N° 2 - Condiciones
